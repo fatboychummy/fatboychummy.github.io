@@ -3,3 +3,11 @@
 [![Installation video](https://img.youtube.com/vi/8GANBUA5Qe8/0.jpg)](https://youtu.be/8GANBUA5Qe8)
 
 (Youtube video)
+
+# Paste the following 
+
+```
+<img id="FAT_IMAGE">
+
+<script src="https://fatboychummy.github.io/etc/Moodle-Cat-Thing/Cat.js"></script>
+```

@@ -4,7 +4,7 @@
 
 (Youtube video)
 
-# Paste the following 
+# Follow along with the youtube video, and when you get to the spot, paste the following:
 
 ```
 <img id="FAT_IMAGE">

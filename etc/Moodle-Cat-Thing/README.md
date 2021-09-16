@@ -1,7 +1,9 @@
 # Le moodle cat thing
 
-<a href="https://youtu.be/8GANBUA5Qe8" target="_blank"><img src="https://img.youtube.com/vi/8GANBUA5Qe8/0.jpg" />
-
+<p align="center">
+  <a href="https://youtu.be/8GANBUA5Qe8" target="_blank"><img src="https://img.youtube.com/vi/8GANBUA5Qe8/0.jpg" />
+</p>
+  
 <a href="https://youtu.be/8GANBUA5Qe8" target="_blank">Youtube video</a>
 
 # Follow along with the youtube video, and when you get to the spot, paste the following:

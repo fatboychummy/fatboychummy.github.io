@@ -1,8 +1,8 @@
 # Le moodle cat thing
 
-[![Installation video](https://img.youtube.com/vi/8GANBUA5Qe8/0.jpg)](https://youtu.be/8GANBUA5Qe8){:target="_blank" rel="noopener"}
+<a href="https://youtu.be/8GANBUA5Qe8" target="_blank"><img src="https://img.youtube.com/vi/8GANBUA5Qe8/0.jpg" />
 
-(Youtube video)
+<a href="https://youtu.be/8GANBUA5Qe8" target="_blank">Youtube video</a>
 
 # Follow along with the youtube video, and when you get to the spot, paste the following:
 
